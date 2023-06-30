@@ -73,3 +73,5 @@ function tachchuoi($kyTu, $chuoi){
 
 print_r (tachchuoi(" ",'Hieu dep trai'));
 ?>
+
+
